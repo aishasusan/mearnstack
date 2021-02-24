@@ -1,0 +1,10 @@
+var n=100;
+var avg=10.5;
+var name="aisha";
+var name="hello";
+var isAllow=true;
+console.log(typeof(n));
+console.log(typeof(avg));
+console.log(typeof(name));
+console.log(typeof(isAllow));
+console.log(typeof(name));

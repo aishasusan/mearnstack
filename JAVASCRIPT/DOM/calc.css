@@ -1,0 +1,32 @@
+
+.container{
+    text-align: center;
+    width:210px;
+    margin-left: 5%;
+    margin-top: 5%;
+    color:brown;
+    border:solid black;
+    border-width: .20cm;
+}
+table{
+    margin-left: 5%;
+}
+tr{
+    tab-size:10cm;
+    text-align: center;
+    background-color: burlywood;
+}
+td{
+    text-size-adjust: auto;
+}
+.buttondigits{
+    background-color:burlywood;
+    color: black;
+    border: solid black;
+    width:100%
+}
+input [type="text"]{
+    background-color: cornsilk;
+    border: solid black;
+    width: 100%;
+}
